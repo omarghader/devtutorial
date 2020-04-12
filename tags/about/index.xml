@@ -1,1 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>about on Development Tutorial</title><link>https://devtutorial.xyz/tags/about/</link><description>Recent content in about on Development Tutorial</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>citiesapp2014@gmail.com (Marc GHADER)</managingEditor><webMaster>citiesapp2014@gmail.com (Marc GHADER)</webMaster><copyright>&amp;copy;{year}, All Rights Reserved</copyright><lastBuildDate>Fri, 08 Aug 2014 20:53:07 -0400</lastBuildDate><atom:link href="https://devtutorial.xyz/tags/about/index.xml" rel="self" type="application/rss+xml"/><item><title>About me</title><link>https://devtutorial.xyz/about/</link><pubDate>Fri, 08 Aug 2014 20:53:07 -0400</pubDate><author>citiesapp2014@gmail.com (Marc GHADER)</author><atom:modified>Fri, 08 Aug 2014 20:53:07 -0400</atom:modified><guid>https://devtutorial.xyz/about/</guid><description>Master of Software and Network Engineering at INSA de Toulouse.</description><dc:creator>Marc GHADER</dc:creator><category>about</category></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>about on Development Tutorial</title>
+    <link>https://devtutorial.xyz/tags/about/</link>
+    <description>Recent content in about on Development Tutorial</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>citiesapp2014@gmail.com (Marc GHADER)</managingEditor>
+    <webMaster>citiesapp2014@gmail.com (Marc GHADER)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 08 Aug 2014 20:53:07 -0400</lastBuildDate>
+    
+        <atom:link href="https://devtutorial.xyz/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>About me</title>
+        <link>https://devtutorial.xyz/about/</link>
+        <pubDate>Fri, 08 Aug 2014 20:53:07 -0400</pubDate>
+        <author>citiesapp2014@gmail.com (Marc GHADER)</author>
+        <atom:modified>Fri, 08 Aug 2014 20:53:07 -0400</atom:modified>
+        <guid>https://devtutorial.xyz/about/</guid>
+        <description>Master of Software and Network Engineering at INSA de Toulouse.</description>
+        
+        <dc:creator>Marc GHADER</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>about</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
